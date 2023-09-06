@@ -11,4 +11,3 @@ python merge_gbk.py
 
 cat file1 file2 file3 file4 ... > merged.gbk
 
-と同じことをやっているだけだった(T-T)
